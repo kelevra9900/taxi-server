@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taxiserviradio-53b7c",
+  "private_key_id": "4afbb816dd5471cc776a4cc268295b0221d520d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+tP/x0dEwXk7p\nHmMr57e8S0QD98O6BimDO1Oj01tYxrUoazx4KZxppx14dSHOW1jRaK7a11tDPUcR\nLwPQdaTBS/SDIuv+IJ1PndtnPZukDv3U2F2G9MU4eADbzOYqDQgN2In2HiQjI/vs\nf0iW6/4yKdpTNvJ3TwXbGQDl6nu44eiYtNUpUdFHmW5wQrsB9x8EJ1mf2F8LBITy\nKxDEskuN/ce451y35Z+Qr4wkAicGSWztb9HVB7NDHnQ60NltRpXScNeKTmHHWPkU\nrd5tt1EpDiKEuEoi/jSxbXqC4vFRN8qw/DmHPcveBX7KXhWUqukZuWsL3SJIbc4c\nBUd4fCPTAgMBAAECggEAHBndsQti0MbEx/MTV+/gEh3hGtiSfcHUsiK202gciLtX\nDGqo0WgIRUU7wXk5DwhE0S6kvViIeSL5at3LqRb8vQLtN7mYnqy9oXK4VsEsQwN2\ngbuUJIPC3+xG7ByIOeALtMaYpayRVKBDyfiDgMGrhkbGhgaNuejqCvvnNvnTW02l\nTbtnAtmLFp0fSS0X5ESHiZXki9QtoyM95sFSyKGb+rjfMVoNJRAFRv3QdKmLWEkO\nI/qCPk56tNGQHI6Jj5NVcgIuLWBGRhFy+vum8md2D0O7fCFoGTuvUqqHj59ozPuq\nA8adnbFOjG1HLuXcTTGTw3C9Nr/KkEn92kyvsiv8wQKBgQDsVwLdbekKbCp8/s1K\nbDUZN/98NNl3YFs09ZbfHIG2jGM5MZ+OMsrmgKGtNxCFRo7fo/SflVUB6EodxfAE\nOSrgBTVkjRVbKenvzJbcotaXX3giMDIjuJJpC3FF5gHAv9+JMU+inMgy0FR0l2xj\ng2NqdeJET76rNMKDV+AOqytgswKBgQDOkjYtHXPOaHvNg+YukT17Qcrd7dOF/4VP\n0+GWNTVqxKmyH9yCs04/duGWpg7fEcOo6Kb1CzeOkRY3EQAp5c17ExgUtRsG0WY1\nFwfs0nmlOTjT7kfY4rnS9KRf0aJFodkC7NlhOfZz+V0Rne8yy4lfESa9xY5hBNy6\nY5WYRAGAYQKBgQDrmcHtY4gRL8sbWBbmvgAg58X01+qCKrhBjyGbwRs+E61GcsWQ\nR+ok5s5FksMRWUlMgHF4NLHNePeJvqyKSUMIl6imWE6V1q6yss0hneM2e6GS02Do\nYzLxLMr611OgBqacaV/tx0V8Alpu8BTJD02n72RknOqCWdIehReDB/fyKQKBgH0Z\nTNfrkzt4SSl/7IFdEfe4M2xNYCExSoG6lk5KMOxU51PpObipcAS9MQbzz+PFtVFw\ne9PAlEexk9uLXycAdX1IZff8ab6qR5R1OyZvnJ2z1rd6AWbWf6TC5Vzl7rjuuCau\nW0MnQBqh9Hv7wmVnn+zDzUt1/bDBqg7yyiCpZqNhAoGAboZIYElZ8YTfC+Lcle9a\n2kdcZTlFUqvdZwQ5ATRrjoX/PGCONpoNt8pmH9SFHtO+TwkovDJvflkFv9GGUr2E\njmpHDhekGM0ZEc0TLMhUujGa4HRDw4BXoPU7gEc/ICpuL42PU7jHz5IyTre+n7Xh\nfax2I1Uzj0vbb+KtdzX1YZU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wwewd@taxiserviradio-53b7c.iam.gserviceaccount.com",
+  "client_id": "115005380041566981280",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wwewd%40taxiserviradio-53b7c.iam.gserviceaccount.com"
+}
